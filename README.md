@@ -3,7 +3,7 @@
 # Unleash the Melodic Magic
 
 
-## Experience Music Beyond Imagination with AI Music Generator! 
+## Experience Music Beyond Imagination with AI Music Generator! #SUBASHPALVEL #subashpalvel #SubashPalvel #Subash_Palvel
 
 Music has always been a captivating art form that resonates with people across cultures. In recent years, advancements in artificial intelligence and deep learning have opened up new possibilities for generating music using neural networks. In this blog, we will explore the fascinating process of generating music using LSTM (Long Short-Term Memory) neural networks. Our focus will be on leveraging the MusicNet dataset, a comprehensive collection of classical music MIDI files. Additionally, we will discuss the instrumental role played by Intel DevCloud in facilitating efficient code execution, enabling faster training, and leveraging the power of Intel hardware resources.
 
