@@ -1,6 +1,6 @@
 # AI-Music-Generator
 
-# Unleash the Melodic Magic
+# Unleash the Melodic Magic using Intel OneDNN.
 
 
 ## Experience Music Beyond Imagination with AI Music Generator!
